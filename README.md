@@ -1,3 +1,5 @@
+TELECOM CUSTOMER CHURN ANALYSIS & RETENTION
+
 Telecom Customer Churn Analysis & Retention Dashboard 📌 Project Overview
 
 This project focuses on analyzing customer churn behavior in the telecom industry using Python, SQL, and Power BI.
