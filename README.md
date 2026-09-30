@@ -1,4 +1,3 @@
-TELECOM CUSTOMER CHURN ANALYSIS & RETENTION
 
 Telecom Customer Churn Analysis & Retention Dashboard 📌 Project Overview
 
